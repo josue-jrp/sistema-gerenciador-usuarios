@@ -1,0 +1,26 @@
+#config[
+    {
+        "visual":{
+            "tema":["claro","escuro"],
+            "frame superior": ["claro", "escuro"],
+            "frame intermediário": ["claro", "escuro"],
+            "frame inferior": ["claro","escuro"]
+        } 
+    }
+]
+@infoPessoal[
+    {
+        "nomeCompleto": " ",
+        "email": " ",
+        "cep": " ",
+        "dataNascimento": " ",
+        "numeroCelular": " "
+    }
+]
+@tarefas[
+    {
+    "IdTarefa":"", "titulo":"", "descrição":"", "notificar":{"?":"sim", "email":email} ,"data":"", "hora": ""
+
+    #formato de data (dd/mm/aa) formato hora (hh:mm)
+    }
+]

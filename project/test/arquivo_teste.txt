@@ -1,0 +1,13 @@
+id = 0
+username = admin
+passwd = admin
+-
+id = 1
+username = josue
+passwd = chocolate
+-
+id = 2
+username = teste
+passwd = teste
+-
+-

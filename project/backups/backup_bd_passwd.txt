@@ -1,0 +1,48 @@
+id = 0
+username = admin
+passwd = admin
+-
+id = 1
+username = josue
+passwd = gremio
+-
+id = 2
+username = teste1
+passwd = gremio
+-
+id = 3
+username = teste2
+passwd = gremio
+-
+id = 4
+username = teste3
+passwd = admin
+-
+id = 5
+username = teste4
+passwd = gremio
+-
+id = 6
+username = teste5
+passwd = admin
+-
+id = 7
+username = teste6
+passwd = gremio
+-
+id = 8
+username = teste7
+passwd = admin
+-
+id = 9
+username = teste8
+passwd = gremio
+-
+id = 10
+username = teste9
+passwd = gremio
+-
+id = 11
+username = teste10
+passwd = gremio
+-
